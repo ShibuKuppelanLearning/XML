@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+    <country code="IND">
+        <name>India</name>
+        <language>Hindi</language>
+        <capital>Delhi</capital>
+        <states>
+            <state>
+                <name>Kerala</name>
+                <language>Malayalam</language>
+                <capital>Thiruvananthapuram</capital>
+            </state>
+            <state>
+                <name>Tamilnadu</name>
+                <language>Tamil</language>
+                <capital>Chennai</capital>
+            </state>
+        </states>
+    </country>
+</root>

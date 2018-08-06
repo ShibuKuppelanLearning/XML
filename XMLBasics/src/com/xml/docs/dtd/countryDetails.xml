@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE root SYSTEM "countryDetails.dtd">
+
+<root>
+    <country code="IN">
+        <name>India</name>
+        <language>Hindi</language>
+        <capital>Delhi</capital>
+        <states>
+            <state code="KL">
+                <name>Kerala</name>
+                <language>Malayalam</language>
+                <capital>Thiruvananthapuram</capital>
+            </state>
+            
+            <state code="TN">
+                <name>Tamilnadu</name>
+                <language>Tamil</language>
+                <capital>Chennai</capital>
+            </state>
+        </states>
+    </country> 
+</root>
